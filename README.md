@@ -8,4 +8,4 @@ Effectuer 10 actions d'optimisation pour le réferencement du site web
 
 
 lien du site web original en ligne:
-https://wiss3813.github.io/LaChouetteAgenceOriginal/
+https://wiss3813.github.io/P4_HW_LaChouetteAgenceOriginal_05-06-2021/
